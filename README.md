@@ -1,8 +1,17 @@
 # chatbot
 opens apps
 [main.py](https://github.com/user-attachments/files/24121203/main.py)
+# Chatbot: Application Launcher
+
+A simple Python chatbot with a Tkinter GUI that opens apps based on user input.
+
 ### 🔗 Live Demo
 [Try the chatbot here](https://your-chatbot-demo.netlify.app)
+
+### 📄 Features
+- Launches apps via natural language
+- GUI interface using Tkinter
+- Built with subprocess and keyword matching
 
 # Import the tkinter library for GUI development
 import tkinter as tk
